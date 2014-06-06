@@ -10,13 +10,13 @@ You can either download the zip of this repository or you can pull it down with 
 Part One: Reverse Words
 -----------------------
 
-(src/main/java/InterviewQuestion.java)[src/main/java/InterviewQuestion.java] contains the reverseWords function.
+[src/main/java/InterviewQuestion.java](src/main/java/InterviewQuestion.java) contains the reverseWords function.
 You will need to implement this function.
 
 Part Two: QA Reverse Words
 --------------------------
 
-(src/test/java/InterviewQuestionTest.java)[src/test/java/InterviewQuestionTest.java] contains a single test case for the reverseWords function.
+[src/test/java/InterviewQuestionTest.java](src/test/java/InterviewQuestionTest.java) contains a single test case for the reverseWords function.
 Take the role of a QA tester.
 What additional tests would you add test reverseWords?
 Add those tests to this class.
@@ -33,10 +33,10 @@ Tools
 ### TestNG
 
 You can make the assumption that the tests will be executed using TestNG.
-Documentation on TestNG can be found (here)[http://testng.org/doc/documentation-main.html].
+Documentation on TestNG can be found [here](http://testng.org/doc/documentation-main.html).
 
 ### Maven
-This project does include a (pom.xml)[pom.xml] file that can be used to build and test this code.
+This project does include a [pom.xml](pom.xml) file that can be used to build and test this code.
 It is designed for use with Maven 2.x.
 You do not have to use Maven if you do not want to.
 
