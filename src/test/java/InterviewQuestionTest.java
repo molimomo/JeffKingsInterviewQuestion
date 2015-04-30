@@ -18,6 +18,10 @@ public class InterviewQuestionTest {
         actual = interviewQuestion.reverseWords("");
         Assert.assertEquals("", actual);
         
+        // Single space
+        actual = interviewQuestion.reverseWords(" ");
+        Assert.assertEquals("", actual);
+        
         // Single word test
         actual = interviewQuestion.reverseWords("word");
         Assert.assertEquals("word", actual);
